@@ -293,17 +293,3 @@ The application returns:
 
 ```
 
-## 📁 Project Structure
-foodwise-ml/
-│
-├── app.py
-├── foodwise_core_functions.py
-├── requirements.txt
-├── README.md
-│
-├── data/
-│   └── Food demand.csv
-│
-└── models/
-    ├── xgboost_model.joblib
-    └── imputation_values.joblib
